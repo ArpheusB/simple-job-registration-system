@@ -17,6 +17,7 @@
 #include <ctype.h>
 
 
+
 struct Jelentkezes {
     int id;
     char nev[100];
